@@ -1,6 +1,6 @@
 # cpuGovernor Releases
 
-Dieses Repository enthaelt oeffentliche Release-Pakete fuer cpuGovernor.
+Dieses Repository enthält öffentliche Release-Pakete für cpuGovernor.
 
 ## Schnellstart
 
@@ -31,4 +31,4 @@ journalctl -u cpuGovernor -f
 
 ## Lizenz
 
-Die Nutzung ist fuer private und nicht-kommerzielle Zwecke erlaubt. Kommerzielle Nutzung benoetigt eine vorherige schriftliche Zustimmung von ehive. Siehe `LICENSE.txt` und `THIRD_PARTY_NOTICES.txt`.
+Die Nutzung ist für private und nicht-kommerzielle Zwecke erlaubt. Kommerzielle Nutzung benötigt eine vorherige schriftliche Zustimmung von ehive. Siehe `LICENSE.txt` und `THIRD_PARTY_NOTICES.txt`.
