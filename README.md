@@ -19,7 +19,7 @@ curl -fsSL https://raw.githubusercontent.com/ehive-dev/cpuGovernor_releases/main
 Bestimmte Version installieren:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/ehive-dev/cpuGovernor_releases/main/install.sh | sudo bash -s -- --tag v0.1.0
+curl -fsSL https://raw.githubusercontent.com/ehive-dev/cpuGovernor_releases/main/install.sh | sudo bash -s -- --tag v0.1.2
 ```
 
 ## Service
